@@ -1,0 +1,51 @@
+[
+    {
+        "storyboardName": "Dashboard",
+        "controllerName": "DashboardVC",
+        "image": "leaf.fill",
+        "selectedImage": "leaf.fill",
+        "order": 0,
+        "title": "Dashboard"
+    },
+    {
+        "storyboardName": "Attendance",
+        "controllerName": "AttendanceVC",
+        "image": "leaf.fill",
+        "selectedImage": "leaf.fill",
+        "order": 2,
+        "title": "Attendance"
+    },
+    {
+        "storyboardName": "Leaves",
+        "controllerName": "LeaveVC",
+        "image": "leaf.fill",
+        "selectedImage": "leaf.fill",
+        "order": 1,
+        "title": "Leave"
+    },
+    {
+        "storyboardName": "Expanse",
+        "controllerName": "ExpanseVC",
+        "image": "leaf.fill",
+        "selectedImage": "leaf.fill",
+        "order": 3,
+        "title": "Expanse"
+    },
+    {
+        "storyboardName": "Payslips",
+        "controllerName": "PayslipsViewController",
+        "image": "leaf.fill",
+        "selectedImage": "leaf.fill",
+        "order": 4,
+        "title": "PaySlips"
+    },
+    {
+        "storyboardName": "Survey",
+        "controllerName": "SurveyVC",
+        "image": "leaf.fill",
+        "selectedImage": "leaf.fill",
+        "order": 4,
+        "title": "Survey"
+    }
+   ]
+   
